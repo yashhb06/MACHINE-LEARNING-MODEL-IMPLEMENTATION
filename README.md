@@ -2,13 +2,13 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: Dev Nilesh Gandhi
+*NAME*: Yash Bhavsar
 
-*INTERN ID*: CT04DM1209
+*INTERN ID*: CT06DL691
 
 *DOMAIN*: Python Programming
 
-*DURATION*: 4 weeks
+*DURATION*: 6 weeks
 
 *MENTOR*: Neela Santhosh Kumar
 
